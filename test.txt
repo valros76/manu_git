@@ -1,2 +1,6 @@
 Création du test.txt à 10h09
+<<<<<<< HEAD
 Modification du test.txt dans la branche main à 10h34 (pour exercice 8)
+=======
+Création de la branche modifContenu à 10h24 et modification du test.txt
+>>>>>>> modifContenu
